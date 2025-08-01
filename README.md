@@ -11,7 +11,6 @@ This project analyzes fitness tracker data from **FitBit** users to generate str
 
 ## 🛠️ Tools Used
 - **Python** – pandas, matplotlib, seaborn
-- **SQL** – BigQuery-style cleaning queries
 - **Google Sheets** – light preprocessing
 - **PDF/Word** – automated reporting
 
