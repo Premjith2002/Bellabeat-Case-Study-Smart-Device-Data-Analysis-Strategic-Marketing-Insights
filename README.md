@@ -60,5 +60,5 @@ This project analyzes fitness tracker data from **FitBit** users to generate str
 ---
 
 ## 🙋‍♂️ Contact
-Feel free to connect with me on [LinkedIn](#)  
+Feel free to connect with me on https://www.linkedin.com/in/premjith-murella
 I'm open to feedback, collaborations, or data analyst opportunities!
